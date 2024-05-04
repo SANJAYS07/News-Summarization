@@ -20,7 +20,7 @@ I have focused on interconnecting Three Algorithms :
 1. Run app.py file (website)
 2. Run combined.py for console based output.
 3. paste your news article data in the input field.
-4. Summarized output will be geberated which will be 60% of the original data size.
+4. Summarized output will be generated which will be 60% of the original data size.
    
 ## SCREENSHOTS 
 
